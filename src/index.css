@@ -1,0 +1,8 @@
+/* Mantenha ou adicione estilos globais básicos se necessário */
+body {
+  margin: 0;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif; /* Fonte padrão do MUI */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f2f5; /* Fundo padrão leve */
+} 
